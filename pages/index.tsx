@@ -10,7 +10,7 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <header>
-        <h1>header</h1>
+        <h1>header test push</h1>
       </header>
 
       <main className={styles.main}>
