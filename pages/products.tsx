@@ -1,14 +1,29 @@
-import styles from '../styles/Home.module.css'
+import styles from '../styles/Product.module.css'
 import { Card } from '../src/_components/atoms'
+import { Header } from '../src/_components/organisms'
+import productsData from '../src/data/products.json'
 
 export default function Products() {
   return (
-    <div className={styles.container}>
-
-      <h1 >products</h1>
-      <Card
-        title={"box2"}
-      />
+    <div>
+      <Header />
+      <div className={styles.marketingBar}>Lorem ipsum dolor sit amet consectetur</div>
+      <div className={styles.container}>
+        <div className={styles.grid}>
+          {productsData.map((product) => {
+            return (
+              <Card
+                title={product.title}
+                img={product.img}
+                price={product.price}
+                stickerLabel={product.stickerLabel}
+                subText={product.subText}
+                url={product.url}
+              />
+            )
+          })}
+        </div>
+      </div>
     </div>
   )
 }

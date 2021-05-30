@@ -1,0 +1,37 @@
+@font-face {
+    src: url(../../public/fonts/GT-America-Standard-Regular.otf);
+    font-family: gt-st-rg;
+}
+
+.card {
+    cursor: pointer;
+    box-shadow: rgb(0 0 0 / 15%) 0px 0px 5px;
+    border-radius: 5px;
+    padding: 12px;
+    width: 327px;
+    height: auto;
+    margin: 2em;
+    font-family: gt-st-rg;
+}
+.cardText {
+    display: flex;
+    justify-content: space-between;
+    margin-left: 1em;
+}
+.card p {
+    color: grey;
+    margin: 0 0 0 1em;
+    font-size: .8em;
+}
+.card h2 {
+    font-size: 1em;
+}
+.card h3 {
+    font-size: 1em;
+}
+.img {
+    width: auto;
+    height: 18em;
+    display: flex;
+    margin: auto;
+}

@@ -1,0 +1,66 @@
+[
+    {
+        "id": "0",
+        "stickerLabel": "30 Days Free Return",
+        "img": "https://soundboks.imgix.net/newsoundboks_9-b98f4fcf502869259a7e87e98746db58.png",
+        "title": "The New SOUNDBOKS",
+        "price": 6.699,
+        "subText": "Starting at $93/mo with affirm",
+        "url": "https://www.soundboks.com/dk/products/soundboks-gen-3/"
+    },
+    {
+        "id": "1",
+        "stickerLabel": "30 Days Free Return",
+        "img": "https://soundboks.imgix.net/soundboks_1-5498847238334e482f44d7f04d408830.png",
+        "title": "SOUNDBOKS 2",
+        "price": 5.199,
+        "subText": "Starting at $93/mo with affirm",
+        "url": "https://www.soundboks.com/dk/products/soundboks-gen-2/"
+    },
+    {
+        "id": "2",
+        "stickerLabel": "30 Days Free Return",
+        "img": "https://soundboks.imgix.net/explorer-pack-black-7458e99b72d8ac37324750790af78877.png",
+        "title": "Explorar Pack",
+        "price": 5.999,
+        "subText": "Starting at $93/mo with affirm",
+        "url": "https://www.soundboks.com/dk/products/explorer-pack/"
+    },
+    {
+        "id": "3",
+        "stickerLabel": "30 Days Free Return",
+        "img": "https://soundboks.imgix.net/rf-2020-nSB-01-cca87ff7b90373ec51203e648cf5677e.png",
+        "title": "SOUNDBOKS x RF50",
+        "price": 6.999,
+        "subText": "Starting at $93/mo with affirm",
+        "url": "https://www.soundboks.com/dk/products/roskilde-festival-edition/"
+    },
+    {
+        "id": "4",
+        "stickerLabel": "30 Days Free Return",
+        "img": "https://soundboks.imgix.net/mikeller-edition-dk-1-737b6e4bfa4f5b10a7f07b58398a66c5.png",
+        "title": "SOUNDBOKS x Mikkeller",
+        "price": 6.699,
+        "subText": "Starting at $93/mo with affirm",
+        "url": "https://www.soundboks.com/dk/products/soundboks-mikkeller-edition-dk/"
+    },
+    {
+        "id": "5",
+        "stickerLabel": "30 Days Free Return",
+        "img": "https://soundboks.imgix.net/grill-orange_1-25407d3175364f2940c5509e500fb2c2.png",
+        "title": "Orange Grill",
+        "price": 999,
+        "subText": "Starting at $93/mo with affirm",
+        "url": "https://www.soundboks.com/dk/products/grill-orange/"
+    },
+    {
+        "id": "6",
+        "stickerLabel": "",
+        "img": "https://soundboks.imgix.net/charger_1-b5af280ab67e2bc17d42c90ebb46b0df.png",
+        "title": "Charger",
+        "price": 369,
+        "subText": "Starting at $93/mo with affirm",
+        "url": "https://www.soundboks.com/dk/products/charger/"
+    }
+
+]
