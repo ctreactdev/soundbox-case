@@ -1,0 +1,36 @@
+@font-face {
+    src: url(../public/fonts/GT-America-Compressed-Bold.otf);
+    font-family: gt-com-bold;
+}
+@font-face {
+    src: url(../public/fonts/GT-America-Expanded-Black.otf);
+    font-family: gt-ex-bl;
+}
+
+.header {
+    display: flex;
+    height: auto;
+    width: 100%;
+}
+.headerDivided {
+    display: flex;
+    flex-grow: 1;
+    flex-shrink: 1;
+    align-items: center;
+    justify-content: flex-end;
+    height: 100%;
+    margin-right: 10em;
+}
+.headerDivided a {
+    font-family: gt-com-bold;
+}
+.header a {
+    font-size: 1.3em;
+    margin: 1em;
+    font-family: gt-com-bold;
+}
+@media (max-width: 600px) {
+    .headerDivided {
+      display: none;
+    }
+  }

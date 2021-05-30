@@ -1,0 +1,9 @@
+.stickerLabel {
+    background-color: #0e9f6d;
+    width: 10em;
+    text-align: center;
+}
+.stickerLabel p {
+    color: white;
+    margin: 0;
+}
